@@ -1,5 +1,5 @@
 ### Hi there!
-- 👋 Hi, I’m Sergio Fernández (known virtually as @serrgiofdezz).
+- 👋 Hi, I’m Sergio Fernández (known on the internet as @serrgiofdezz).
 - 👀 I’m interested in Android and Web development, as well as tech in general and street photography.
 - 🌱 I’m currently learning basic front-end web development.
 - 💞️ I’m looking to collaborate on anything I have knowledge of.
