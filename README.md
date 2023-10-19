@@ -1,11 +1,12 @@
-### Hi there!
-- 👋 Hi, I’m Sergio Fernández (known on the internet as @serrgiofdezz).
-- 👀 I’m interested in Android and Web development, as well as tech in general and street photography.
-- 🌱 I’m currently learning basic front-end web development.
-- 💞️ I’m looking to collaborate on anything I have knowledge of.
-- 📫 You can reach me at [sergio@bbjprojek.org](mailto:sergio@bbjprojek.org) or find me in other social media by going to my website [me.bbjprojek.org](https://me.bbjprojek.org).
-
-<!---
-serrgiofdezz/serrgiofdezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
+<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+</p>
+<p></p>
+<p></p>
+</p>
